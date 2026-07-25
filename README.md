@@ -1,11 +1,12 @@
 # Hi, I'm Peter 👋
 
-🇹🇼 Engineer from Taiwan, currently based in 🇯🇵 Tokyo.
+🇹🇼 Engineer from Taiwan, based in 🇯🇵 Tokyo.
 
 ## About Me
 
 - Mechanical Engineer with 10+ years of experience
-- Experienced in FAE and Project Management between Taiwan and Japan
+- Experienced in FAE and Project Management
+- Cross-border experience in Taiwan and Japan
 - Currently transitioning into Software Engineering
 
 ## Currently Learning
@@ -17,15 +18,13 @@
 
 ## Languages
 
-🇹🇼 Chinese (Native)
-
-🇯🇵 Japanese (Business level)
-
-🇬🇧 English (Learning)
+- Chinese (Native)
+- Japanese (JLPT N1)
+- English (Learning)
 
 ## Goals
 
-Become a Java Backend Engineer in Japan.
+Build software solutions by combining my engineering background and IT skills.
 
 ## Tech Stack
 
