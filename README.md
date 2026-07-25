@@ -1,11 +1,11 @@
 # Hi, I'm Peter 👋
 
-🇹🇼 Taiwanese engineer based in 🇯🇵 Tokyo.
+🇹🇼 Engineer from Taiwan, currently based in 🇯🇵 Tokyo.
 
 ## About Me
 
-- Former Mechanical Engineer
-- Experienced in FAE / Project Management
+- Mechanical Engineer with 10+ years of experience
+- Experienced in FAE and Project Management between Taiwan and Japan
 - Currently transitioning into Software Engineering
 
 ## Currently Learning
