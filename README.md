@@ -1,6 +1,6 @@
 # Hi, I'm Peter 👋
 
-🇹🇼 Engineer from Taiwan, based in 🇯🇵 Tokyo.
+🇹🇼 Taiwanese engineer based in 🇯🇵 Tokyo, Japan.
 
 ## About Me
 
@@ -11,9 +11,11 @@
 
 ## Currently Learning
 
-☕ Java  
-🐙 Git & GitHub  
-💻 LeetCode  
+☕ Java Fundamentals
+🌐 Java Web (Servlet / JSP)
+🐙 Git & GitHub
+💻 LeetCode
+🗄️ SQL
 🌱 Spring Boot (coming soon)
 
 ## Languages
@@ -24,8 +26,14 @@
 
 ## Goals
 
-Build software solutions by combining my engineering background and IT skills.
+Build software solutions by combining engineering expertise, cross-border communication, and software development skills.
 
 ## Tech Stack
 
-Java | Git | GitHub | SQL
+Java | Servlet | Git | GitHub | SQL
+
+## Featured Projects
+
+- ☕ Java Practice
+- 💻 LeetCode Java
+- 🌐 Servlet Practice
