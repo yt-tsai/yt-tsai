@@ -11,18 +11,17 @@
 
 ## Currently Learning
 
-☕ Java Fundamentals
-🌐 Java Web (Servlet / JSP)
-🐙 Git & GitHub
-💻 LeetCode
-🗄️ SQL
-🌱 Spring Boot (coming soon)
+- ☕ Java / Object-Oriented Programming
+- 🌐 Java Web (Servlet / JSP)
+- 🗄️ MySQL
+- 🐙 Git & GitHub
+- 💻 Data Structures & Algorithms (LeetCode)
 
 ## Languages
 
 - Chinese (Native)
 - Japanese (JLPT N1)
-- English (Learning)
+- English (Working proficiency)
 
 ## Goals
 
@@ -30,10 +29,11 @@ Build software solutions by combining engineering expertise, cross-border commun
 
 ## Tech Stack
 
-Java | Servlet | Git | GitHub | SQL
+Java | Servlet/JSP | MySQL | Maven | Git | GitHub | VS Code
 
 ## Featured Projects
 
-- ☕ Java Practice
-- 💻 LeetCode Java
-- 🌐 Servlet Practice
+- ☕ **Java Practice** — Java fundamentals, OOP, inheritance, polymorphism, interfaces, exception handling, and collections
+- 💻 **LeetCode Java** — Algorithm and data structure practice in Java
+- 🌐 **Servlet Practice** — Java web development with Servlet, JSP, Maven, Tomcat, and MVC
+- 🗄️ **SQL Practice** — MySQL fundamentals, CRUD, filtering, aggregation, and joins
