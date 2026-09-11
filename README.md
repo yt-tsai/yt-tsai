@@ -4,10 +4,10 @@
 
 ## About Me
 
-- Mechanical engineer with 10+ years of experience
+- Technical professional with 10+ years of experience
 - Experienced in product development, FAE, and project management
 - Cross-border technical coordination experience between Taiwan and Japan
-- Currently transitioning into software engineering
+- Expanding into IT and technical roles
 - Interested in backend and web application development using Java and Python
 
 ## Currently Learning
@@ -23,8 +23,8 @@
 ## Languages
 
 - Chinese (Native)
-- Japanese (JLPT N1)
-- English (Working proficiency)
+- Japanese (Business / JLPT N1)
+- English (Intermediate)
 
 ## Goals
 
@@ -32,11 +32,12 @@ Build practical software solutions by combining engineering expertise, cross-bor
 
 ## Tech Stack
 
-Java | Spring Boot | Servlet/JSP | Python | MySQL | Maven | Tomcat | Git | GitHub | VS Code
+Java | Servlet/JSP | Python | MySQL | Maven | Tomcat | Git | GitHub | VS Code
 
 ## Featured Projects
 
-- 🛠️ **[Technical Issue Manager](https://github.com/yt-tsai/technical-issue-manager)** — In development: a technical issue management system beginning as a Python command-line prototype and later evolving into a Java and Spring Boot web application
+- 🌐 **[Technical Issue Manager — Java Web Application](https://github.com/yt-tsai/technical-issue-manager-java)** — Completed v1.0.0 portfolio project built with Java 21, Jakarta Servlet/JSP, MySQL, Maven, and Tomcat. Includes CRUD operations, multi-criteria search, validation, threaded comments, JUnit/Mockito tests, and GitHub Actions CI.
+- 🐍 **[Technical Issue Manager — Python CLI](https://github.com/yt-tsai/technical-issue-manager)** — Completed Python command-line prototype featuring issue creation, search, update, deletion, statistics, detailed views, comments and replies, with JSON-based data persistence.
 - 🐍 **[Python Practice](https://github.com/yt-tsai/python-practice)** — Python fundamentals, collections, functions, and programming exercises
 - 🌐 **[Servlet Practice](https://github.com/yt-tsai/servlet-practice)** — Java web development with Servlet, JSP, Maven, Tomcat, and MVC
 - 🗄️ **[SQL Practice](https://github.com/yt-tsai/sql-practice)** — MySQL fundamentals, CRUD, filtering, aggregation, and joins
